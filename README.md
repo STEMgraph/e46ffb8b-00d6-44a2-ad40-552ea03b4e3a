@@ -1,5 +1,6 @@
 <!---
 {
+  "id": "e46ffb8b-00d6-44a2-ad40-552ea03b4e3a",
   "depends_on": [],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
